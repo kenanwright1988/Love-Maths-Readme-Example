@@ -35,11 +35,17 @@ Describe the goals of your site in detail, what are you trying to achieve and wh
 #### As a site user: 
 - I want to 
 
+## UI 
+
+Talk about your design choices, colour pallets and fonts. 
+
 
 <a name="wireframes"></a>
 ### Wireframes
 
 Either add your wireframes here or link to another sheet [Wireframes](wireframes.md)
+
+
 
 <a name="features"></a>
 ## Features
@@ -47,7 +53,6 @@ Either add your wireframes here or link to another sheet [Wireframes](wireframes
 ### Home Page
 - Add each feature/function on each page and a description of how it works with screenshots.  
 - Add another section like this for any subsequent pages on your app.  
-
 
 
 
@@ -96,7 +101,11 @@ Describe the steps you took to deploy here. Describe it as though you are guidin
 6. Type gitclone if you selected HTTPS or SSH and paste the copied code. If you used GithubCLi just paste the code you copied
 7. Press Enter to create your clone
 
-Add steps to deploy on Githubpages
+### Deploy on Githubpages
+1. Navigate to your repo on Github. 
+2. Click Settings then Pages
+3. Under Branch click the dropdown and select your main branch. 
+4. Click Save. 
 
 <a name="credits"></a>
 ## Credits
