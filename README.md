@@ -1,4 +1,4 @@
-# Love Maths
+# Project 2 README
 
 Here is where you should describe your project, what it does, why you made it and a brief explanation of how it works. 
   
